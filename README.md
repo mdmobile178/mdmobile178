@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fatai Mubarak (@mdmobile178)
+# 👋 Hi, I'm Fatai Mubarak (@mdmobiletech)
 
 I'm a passionate **full-stack web developer** with a focus on PHP and MySQL. I love turning ideas into real, working web solutions that help people and businesses succeed online.
 
